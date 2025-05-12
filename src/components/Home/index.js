@@ -8,8 +8,8 @@ import Logo from './Logo';
 
 const Home = () => {
     const [letterClass, setLetterClass] = useState('text-animate')
-    const nameArray = "ax ".split("");
-    const jobArray = "software developer.".split("");
+    const nameArray = "ax: ".split("");
+    const jobArray = " A Software Developer.".split("");
 
     useEffect(() => {
         const timerId = setTimeout(() => {
@@ -28,6 +28,7 @@ const Home = () => {
                 <h1>
                 <span className = {`${letterClass} _8`}>H</span>
                 <span className = {`${letterClass} _9`}>i</span>
+                <span className = {`${letterClass} _9`}>!</span>
                 <br /> 
                 <span className = {`${letterClass} _10`}>I</span>
                 <span className = {`${letterClass} _11`}>'m</span>

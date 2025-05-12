@@ -2,15 +2,15 @@
     "portfolio": [
         {
             "cover": "/portfolio/Chatbot.png", 
-            "title": "StudySmartBot", 
-            "description": "ReactJS, NodeJS, Web Sockets", 
-            "url": "https://studysmartbot.netlify.app/"
+            "title": "TuneMatch", 
+            "description": "Pending Spotify Dev team production approval-functional but email me for full access", 
+            "url": "https://tunematchdeployed.onrender.com/"
         }, 
         {
             "cover": "/portfolio/Coursework.jpeg", 
-            "title": "Coding Course Work", 
-            "description": "Python, Java", 
-            "url": "https://github.com/maxxcraig/CS-150-Projects"
+            "title": "SDSU Basketball AI Scouting Report", 
+            "description": "Link to Github, will be deployed by early July", 
+            "url": "https://github.com/WorldComputingSDSU/AztecBBallScouting"
         }
     ]
 }

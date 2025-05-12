@@ -4,12 +4,12 @@ import './index.scss';
 const Timeline = () => {
   const [events, setEvents] = useState([
     {
-      date: 'Jun 2022 - May 2023',
-      title: "Kadama Tutoring",
+      date: "Jan 2024 - April 2024",
+      title: "James Silberrad Brown Center for AI SWE Intern",
       description: [
-        "Dedicated and results-driven tutor with a proven track record of success in guiding students through challenging subjects.",
-        "Specialized in providing comprehensive support in <b>geometry, trigonometry, math analysis, calculus 1, physics, intro to computer science, and SAT preparation</b>.",
-        "Over the course of a year, successfully assisted more than <b>30 students</b> in understanding and mastering these subjects, fostering a deep appreciation for learning and academic achievement.",
+        "Collaborated on developing <b>AI-powered chat websites</b> for <b>mental health applications</b>, leveraging <b>Django and React</b> to integrate interactive interfaces with AI-driven conversation models.",
+        "Fine-tuned machine learning models on <b>mental health datasets</b> using <b>PyTorch</b> and <b>Ollama</b>, optimizing them for accurate, context-sensitive responses.",
+        "Tested and evaluated model performance by conducting accuracy assessments with <b>Nautilus</b> and custom evaluation metrics to ensure model reliability and effectiveness." 
       ],
       "expanded": false
     },
