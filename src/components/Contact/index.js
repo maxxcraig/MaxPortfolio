@@ -34,7 +34,7 @@ const Contact = () => {
             .then(
                 () => {
                     alert("Message successfully sent! I will get back to you within 1 to 2 business days.")
-                    window.location.reload(false)
+                    refForm.current.reset()
                 }, 
                 () => { 
                     alert("Failed to send the message, please try again")
